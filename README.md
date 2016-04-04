@@ -1,2 +1,3 @@
+
 # mj-boilerplate
- boilerplate to start a project from scratch
+Boilerplate to start a project form scratch
